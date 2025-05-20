@@ -4,7 +4,7 @@
 
 <p align="center"><img width="160" height="160" src="images/bitcoin.png" alt="Defi Bot logo" /></p>
 
-<h1 align="center">Defi Bot v3.1</h1>
+<h1 align="center">Defi Bot v0.1.0</h1>
 <p align="center"><b>DeFi trading bot</b></p>
 
 <p align="center">
