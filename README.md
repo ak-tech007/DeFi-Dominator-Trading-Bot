@@ -1,4 +1,4 @@
-# DeFi-Dominator-Trading-Bot
+# DeFi Dominator Trading Bot
 
 <p align="center"><img width="720" height="463" src="images/inter.jpg" alt="Defi Bot interface" /></p>
 
