@@ -8,7 +8,7 @@ If you discover a security vulnerability in this project, please report it **pri
 
 Please email your findings to:
 
-**security@example.com**
+**lakatanana1130@gmail.com**
 
 Include as much detail as possible:
 - A description of the issue
